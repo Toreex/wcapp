@@ -1,5 +1,8 @@
 *WCapp*
 
+![alt text](public/img/home1.jpg)
+![alt text](public/img/home2.jpg)
+
 ```
 install modules: npm install
 ```
